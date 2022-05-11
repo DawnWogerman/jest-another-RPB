@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DawnWogerman/jest-another-RPB.git"
+  },
+  "author": "Dawn Wogerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DawnWogerman/jest-another-RPB/issues"
+  },
+  "homepage": "https://github.com/DawnWogerman/jest-another-RPB#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
